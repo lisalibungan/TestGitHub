@@ -1,4 +1,4 @@
 TestGitHub
 ==========
 
-Github Tutorial
+TestGitHub is a repository for otolith shape analysis
